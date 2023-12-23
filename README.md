@@ -25,6 +25,8 @@ cd url-shortener<br/>
 
 npm install express mongoose ejs  <br/>
 
+npm i--save-dev nodemon <br/>
+
 **Configure MongoDB:**  <br/>
 
 Update the mongoose.connect method in server.js with your MongoDB connection string.  <br/>
