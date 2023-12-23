@@ -11,6 +11,10 @@ Prerequisites
 Node.js installed
 MongoDB installed and running
 
+Here is the deployed link: https://urlshortner-68im.onrender.com <br/>
+Due to some some error in render the link is sometimes not working well at all,so please recommend you visit it manually it.
+
+
 ![Screenshot (291)](https://github.com/simpleesarath/Gurucool-Assessment/assets/88574803/c69bdb61-09f5-436a-ad35-24b563173940)
 
 
